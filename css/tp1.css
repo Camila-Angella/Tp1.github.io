@@ -1,0 +1,23 @@
+ body{
+   background-color: aquamarine ;
+}
+
+ul li {
+    list-style-type:none;
+}
+
+ ul li{
+        list-style-type:disc;
+
+    }
+
+h1{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 70px
+}
+img{
+    width: 700px;
+    height: 500px;
+    text-align: center;
+}
